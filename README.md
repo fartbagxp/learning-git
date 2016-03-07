@@ -1,6 +1,17 @@
 # learning-git
 These are notes into learning how to git.
 
+[Git flow](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init) from Atlassan:
+
+# Git rebasing:
+
+* http://gitready.com/intermediate/2009/01/31/intro-to-rebase.html
+
+
+# Squashing commits
+
+Use the [interactive rebase command](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase-i) with git.
+
 
 # Git merge:
 
@@ -38,7 +49,3 @@ Switch to the branch and then:
 ``` javascript
 git push origin -u new-name
 ```
-
-# Git rebasing:
-
-* http://gitready.com/intermediate/2009/01/31/intro-to-rebase.html
